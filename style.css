@@ -1,0 +1,56 @@
+.imagen1 {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+    padding-bottom: 200px;
+    
+}
+
+body {
+    background-image: url(WhatsApp\ Image\ 2023-07-05\ at\ 21.18.10.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+input, textarea {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: auto;
+    background-color: rgba(233, 232, 232, 0.836); 
+    border-style: none;
+    
+
+}
+
+.img-fluid {
+ display: flex;
+ justify-content: center;
+ font-family: Arial, Helvetica, sans-serif;
+ color: whitesmoke;
+ font-size: 30px;
+ 
+}
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 95px;
+
+}
+
+h3 {
+    display: inline-block;
+}
+
+footer, p {
+    text-align: center;
+    background-color: rgb(40, 45, 82);
+    color: rgba(245, 245, 245, 0.76);
+    
+}
+
